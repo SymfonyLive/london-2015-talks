@@ -36,7 +36,7 @@ By Richard Jones
 
 ## Puli: PHP's Next Package Revolution
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/webmozart/puli-phps-next-package-revolution)
 ~~Video~~
 
 By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)  
@@ -47,7 +47,7 @@ By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)
 
 ## Hello, PSR-7
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/simensen/hello-psr-7-symfony-live-london-2015)  
 ~~Video~~
 
 By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)  
@@ -58,7 +58,7 @@ By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)
 
 ## Doctrine 2: To Use Or Not To Use
 
-~~Slides~~  
+[Slides](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html)
 ~~Video~~
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
@@ -69,7 +69,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
 
 ## Modernising the Legacy
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/super_marek/modernising-the-legacy)
 ~~Video~~
 
 By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)  
@@ -91,7 +91,7 @@ By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)
 
 ## The IoC Hydra
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/cakper/the-ioc-hydra)
 ~~Video~~
 
 By [Kacper Gunia](https://connect.sensiolabs.com/profile/cakper)  
