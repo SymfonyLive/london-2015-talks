@@ -80,7 +80,7 @@ By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)
 
 ## Hexagonal architecture - message-oriented software design
 
-~~Slides~~  
+[Slides](http://slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design-52937988)  
 ~~Video~~
 
 By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
@@ -102,7 +102,7 @@ By [Kacper Gunia](https://connect.sensiolabs.com/profile/cakper)
 
 ## Real-time Web Apps & Symfony. What are your options?
 
-~~Slides~~  
+[Slides](http://leggetter.github.io/realtime-symfony/)  
 ~~Video~~
 
 By Phil Leggetter  
