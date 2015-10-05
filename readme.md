@@ -26,7 +26,7 @@ By Seb Lee-Delisle
   <dd>The last few years have seen a huge adoption of testing practices, and an explosion of different testing tools, in the PHP space. The difficulties come when we have to choose which tools to use, in what combinations, and how to apply them to existing codebases. In this talk we will look at what tools are available, what their strengths are, how to decide which set of tools to use for new or legacy projects, and when to prioritise decoupling and testability over the convenience we get from our frameworks.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/CiaranMcNulty/building-a-pyramid-symfony-testing-strategies)  
 ~~Video~~
 
 By [Ciaran McNulty](https://connect.sensiolabs.com/profile/ciaranmcnulty)  
