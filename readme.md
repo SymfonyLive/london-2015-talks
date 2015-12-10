@@ -11,7 +11,7 @@
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=DEpqJr73VMUPLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=1)
 
 By Seb Lee-Delisle  
 ![github](icon/github.png) [@sebleedelisle](https://github.com/sebleedelisle)  
@@ -27,7 +27,7 @@ By Seb Lee-Delisle
 </dl>
 
 [Slides](http://www.slideshare.net/CiaranMcNulty/building-a-pyramid-symfony-testing-strategies)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=AM8QmR6x3e0&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=2)
 
 By [Ciaran McNulty](https://connect.sensiolabs.com/profile/ciaranmcnulty)  
 ![github](icon/github.png) [@ciaranmcnulty](https://github.com/ciaranmcnulty)  
@@ -43,7 +43,7 @@ By [Ciaran McNulty](https://connect.sensiolabs.com/profile/ciaranmcnulty)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=q56TnKy-l8k&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=3)
 
 By Richard Jones
 
@@ -57,7 +57,7 @@ By Richard Jones
 </dl>
 
 [Slides](https://speakerdeck.com/webmozart/puli-phps-next-package-revolution)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=nRqwGGROvfw&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=4)
 
 By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)  
 ![github](icon/github.png) [@webmozart](https://github.com/webmozart)  
@@ -73,7 +73,7 @@ By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)
 </dl>
 
 [Slides](https://speakerdeck.com/simensen/hello-psr-7-symfony-live-london-2015)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=MTzWlQo9sAk&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=5)
 
 By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)  
 ![github](icon/github.png) [@simensen](https://github.com/simensen)  
@@ -105,7 +105,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
 </dl>
 
 [Slides](https://speakerdeck.com/super_marek/modernising-the-legacy)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=f-bJgfWFCD8&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=6)
 
 By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)  
 ![github](icon/github.png) [@mareg](https://github.com/mareg)  
@@ -121,7 +121,7 @@ By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)
 </dl>
 
 [Slides](http://slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design-52937988)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=fgQWnglnGeU&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=7)
 
 By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
 ![github](icon/github.png) [@matthiasnoback](https://github.com/matthiasnoback)  
@@ -137,7 +137,7 @@ By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)
 </dl>
 
 [Slides](http://www.slideshare.net/cakper/the-ioc-hydra)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=0qORMgdYhdM&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=8)
 
 By [Kacper Gunia](https://connect.sensiolabs.com/profile/cakper)  
 ![github](icon/github.png) [@cakper](https://github.com/cakper)  
@@ -153,7 +153,7 @@ By [Kacper Gunia](https://connect.sensiolabs.com/profile/cakper)
 </dl>
 
 [Slides](http://leggetter.github.io/realtime-symfony/)  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=LX2KoVK7mqA&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=9)
 
 By Phil Leggetter  
 ![github](icon/github.png) [@leggetter](https://github.com/leggetter)  
@@ -169,7 +169,7 @@ By Phil Leggetter
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://www.youtube.com/watch?v=CFQaVDR96x4&list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM&index=10)
 
 By [James Solomon](https://connect.sensiolabs.com/profile/solomonjames)  
 ![github](icon/github.png) [@solomonjames](https://github.com/solomonjames)  
